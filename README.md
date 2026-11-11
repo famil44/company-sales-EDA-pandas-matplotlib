@@ -2,11 +2,6 @@
 
 An interactive Streamlit dashboard for exploring monthly company sales data. Pick a graph from the sidebar, switch between light and dark mode, and see profit and product sales trends at a glance.
 
-**Live demo:** _add your Streamlit Cloud link here_
-
-![Light mode](screenshots/light.png)
-![Dark mode](screenshots/dark.png)
-
 ## Features
 
 - Select from 7 graphs:
@@ -46,8 +41,8 @@ An interactive Streamlit dashboard for exploring monthly company sales data. Pic
 ## Run locally
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/famil44/company-sales-EDA-pandas-matplotlib.git
+cd company-sales-EDA-pandas-matplotlib
 pip install -r requirements.txt
 streamlit run app.py
 ```
@@ -60,4 +55,4 @@ Python, Streamlit, pandas, matplotlib
 
 ## Author
 
-_Your name_ · [GitHub](https://github.com/<your-username>)
+FAMIL · [GitHub](https://github.com/famil44)
